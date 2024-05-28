@@ -1,0 +1,36 @@
+form{
+    display: flex;
+    flex-direction: column;
+    
+}
+header{
+    background-color: purple;
+    text-align: center;
+    color: white;
+    margin: 0 10em ;
+    padding: 3%;
+}
+input{
+    border: none;
+    border-bottom: 2px solid;
+    margin: 0 12em;
+
+}
+label{
+    margin: 0 10em;
+}
+textarea{
+    margin: 0 12em;
+    height: 200px;
+}
+#botao{
+    background-color: purple;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+p{
+    margin: 0 10em;
+}
