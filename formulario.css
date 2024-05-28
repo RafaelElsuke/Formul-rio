@@ -7,20 +7,20 @@ header{
     background-color: purple;
     text-align: center;
     color: white;
-    margin: 0 10em ;
+    margin: 0 30em ;
     padding: 3%;
 }
 input{
     border: none;
     border-bottom: 2px solid;
-    margin: 0 12em;
+    margin: 0 36em;
 
 }
 label{
-    margin: 0 10em;
+    margin: 0 30em;
 }
 textarea{
-    margin: 0 12em;
+    margin: 0 37em;
     height: 200px;
 }
 #botao{
@@ -32,5 +32,8 @@ textarea{
     border-radius: 20px;
 }
 p{
-    margin: 0 10em;
+    margin: 0 30em;
+}
+#sexo{
+    margin: 0 0em;
 }
